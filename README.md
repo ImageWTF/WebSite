@@ -1,5 +1,5 @@
-# [astro-starter-template] 📄
+# [image.wtf] 🖼️
 
-Starter template for AstroJS.
+Image.wtf main website.
 
-[astro-starter-template]: https://npmjs.org/astro-starter-template
+[image.wtf]: https://image.wtf
