@@ -1,14 +1,14 @@
 import { initializeApp } from "firebase/app";
 
 const firebaseConfig = {
-	apiKey: "", // TODO Replace with your API key
-	appId: "", // TODO Replace with your app ID
-	authDomain: "", // TODO Replace with your auth domain
-	databaseURL: "", // TODO Replace with your database URL
-	measurementId: "", // TODO Replace with your measurement ID
-	messagingSenderId: "", // TODO Replace with your messaging sender ID
-	projectId: "", // TODO Replace with your project ID
-	storageBucket: "", // TODO Replace with your storage bucket
+	apiKey: "AIzaSyDBmnQxVvBOEqdr5498xb7Nb86WO5xA9f4",
+	appId: "1:199878156405:web:6adce1a48bdf961fda983c",
+	authDomain: "image-wtf-web.firebaseapp.com",
+	measurementId: "G-XFRD8Q5GFM",
+	messagingSenderId: "199878156405",
+	projectId: "image-wtf-web",
+	storageBucket: "image-wtf-web.appspot.com",
 };
+
 
 initializeApp(firebaseConfig);

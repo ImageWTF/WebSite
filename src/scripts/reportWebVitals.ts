@@ -7,6 +7,7 @@ export default async (onPerfEntry?: CLSReportCallback) => {
 			"web-vitals"
 		);
 
+		
 		getCLS(onPerfEntry);
 		getFID(onPerfEntry);
 		getFCP(onPerfEntry);
