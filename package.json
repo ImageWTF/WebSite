@@ -1,16 +1,16 @@
 {
 	"name": "imagewtf-web",
 	"version": "0.0.1",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/ImageWTF/image.wtf.git"
-	},
+	"private": true,
 	"homepage": "https://github.com/ImageWTF/image.wtf#readme",
 	"bugs": {
 		"url": "https://github.com/ImageWTF/image.wtf/issues"
 	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ImageWTF/image.wtf.git"
+	},
 	"license": "MIT",
-	"private": true,
 	"scripts": {
 		"build": "astro check && astro build",
 		"start": "astro dev"
