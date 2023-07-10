@@ -1,22 +1,10 @@
 {
-<<<<<<< HEAD
-	"background_color": "#fafafa",
-	"categories": [],
-	"display": "minimal-ui",
-	"name": "Image.wtf",
-	"orientation": "landscape",
-	"short_name": "imagewtf",
-	"start_url": "/",
-	"theme_color": "#fafafa"
-}
-=======
-    "background_color": "// TODO Set the background color of the app",
+    "background_color": "#fafafa",
     "categories": [],
     "display": "minimal-ui",
-    "name": "// TODO Use the same title as in template.html",
+    "name": "Image.wtf",
     "orientation": "landscape",
-    "short_name": "// TODO Title but lowercase",
+    "short_name": "imagewtf",
     "start_url": "/",
-    "theme_color": "// TODO Use the same theme color from template.html"
+    "theme_color": "#fafafa"
 }
->>>>>>> upstream/main
