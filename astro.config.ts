@@ -11,6 +11,7 @@ export default defineConfig({
 	site: "https://image.wtf",
 	experimental: {
 		assets: true,
+		viewTransitions: true,
 	},
 	compressHTML: true,
 	integrations: [
