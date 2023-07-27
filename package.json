@@ -8,7 +8,11 @@
 	},
 	"repository": {
 		"type": "git",
+<<<<<<< HEAD
 		"url": "git+https://github.com/ImageWTF/image.wtf.git"
+=======
+		"url": "git+https://github.com/Lightrix/astro-starter-template.git"
+>>>>>>> upstream/main
 	},
 	"license": "MIT",
 	"scripts": {
