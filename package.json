@@ -1,8 +1,19 @@
 {
 	"name": "imagewtf-web",
 	"version": "0.0.1",
+<<<<<<< HEAD
 	"private": true,
 	"homepage": "https://github.com/ImageWTF/image.wtf#readme",
+=======
+	"private": false,
+	"type": "module",
+	"description": "📄 Starter template for AstroJS.",
+	"keywords": [
+		"astro",
+		"starter"
+	],
+	"homepage": "https://github.com/Lightrix/astro-starter-template#readme",
+>>>>>>> upstream/main
 	"bugs": {
 		"url": "https://github.com/ImageWTF/image.wtf/issues"
 	},
