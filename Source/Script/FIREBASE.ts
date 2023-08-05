@@ -1,6 +1,6 @@
-import { initializeApp } from "firebase/app";
+import { initializeApp as Initialize } from "firebase/app";
 
-const firebaseConfig = {
+Initialize({
 	apiKey: "AIzaSyDBmnQxVvBOEqdr5498xb7Nb86WO5xA9f4",
 	authDomain: "image-wtf-web.firebaseapp.com",
 	projectId: "image-wtf-web",
@@ -8,6 +8,4 @@ const firebaseConfig = {
 	messagingSenderId: "199878156405",
 	appId: "1:199878156405:web:6adce1a48bdf961fda983c",
 	measurementId: "G-XFRD8Q5GFM",
-};
-
-initializeApp(firebaseConfig);
+});
