@@ -1,7 +1,7 @@
 {
 	"name": "imagewtf-web",
 	"version": "0.0.1",
-	"private": "false",
+	"private": false,
 	"homepage": "https://github.com/ImageWTF/image.wtf#readme",
 	"bugs": {
 		"url": "https://github.com/ImageWTF/image.wtf/issues"
