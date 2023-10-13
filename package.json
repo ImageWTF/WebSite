@@ -1,6 +1,7 @@
 {
 	"name": "@website/image_wtf",
 	"version": "0.0.1",
+<<<<<<< HEAD
 	"private": true,
 	"homepage": "https://github.com/ImageWTF/Website#readme",
 	"bugs": {
@@ -9,6 +10,21 @@
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/ImageWTF/Website.git"
+=======
+	"private": false,
+	"description": "📄 Starter template for AstroJS.",
+	"keywords": [
+		"astro",
+		"starter"
+	],
+	"homepage": "https://github.com/Playform/AstroStarterTemplate#readme",
+	"bugs": {
+		"url": "https://github.com/Playform/AstroStarterTemplate/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Playform/AstroStarterTemplate.git"
+>>>>>>> upstream/main
 	},
 	"license": "MIT",
 	"author": {
