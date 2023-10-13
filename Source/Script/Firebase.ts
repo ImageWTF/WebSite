@@ -1,4 +1,6 @@
-(await import("firebase/app")).initializeApp({
+import { initializeApp } from "firebase/app";
+
+initializeApp({
 	apiKey: "AIzaSyDBmnQxVvBOEqdr5498xb7Nb86WO5xA9f4",
 	authDomain: "image-wtf-web.firebaseapp.com",
 	projectId: "image-wtf-web",
@@ -8,4 +10,3 @@
 	measurementId: "G-XFRD8Q5GFM",
 });
 
-export {};
