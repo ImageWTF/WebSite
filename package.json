@@ -1,19 +1,8 @@
 {
 	"name": "@website/image_wtf",
 	"version": "0.0.1",
-<<<<<<< HEAD
 	"private": true,
 	"homepage": "https://github.com/ImageWTF/Website#readme",
-=======
-	"private": false,
-	"description": "📄 Starter template for AstroJS.",
-	"keywords": [
-		"astro",
-		"starter",
-		"skeleton"
-	],
-	"homepage": "https://github.com/Playform/AstroStarterTemplate#readme",
->>>>>>> upstream/main
 	"bugs": {
 		"url": "https://github.com/ImageWTF/Website/issues"
 	},
