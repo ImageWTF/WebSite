@@ -45,13 +45,8 @@
 		"postcss-reporter": "7.1.0",
 		"postcss-url": "10.1.3",
 		"tailwindcss": "3.4.1",
-<<<<<<< HEAD
 		"typescript": "5.4.2",
 		"typescript-esbuild": "0.4.5",
-=======
-		"typescript": "5.4.3",
-		"typescript-esbuild": "0.4.4",
->>>>>>> 0d61da670f4e577264ac84e1444915189445a702
 		"zod": "3.22.4"
 	},
 	"publishConfig": {
