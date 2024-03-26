@@ -2,19 +2,19 @@
 	"name": "@website/image_wtf",
 	"version": "0.0.1",
 	"private": true,
-	"homepage": "HTTPS://GitHub.Com/ImageWTF/Website#readme",
+	"homepage": "https://github.com/ImageWTF/Website#readme",
 	"bugs": {
-		"url": "HTTPS://GitHub.Com/ImageWTF/Website/issues"
+		"url": "https://github.com/ImageWTF/Website/issues"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+HTTPS://GitHub.Com/ImageWTF/Website.git"
+		"url": "git+https://github.com/ImageWTF/Website.git"
 	},
 	"license": "SEE LICENSE IN LICENSE",
 	"author": {
 		"name": "Nikola R. Hristov",
 		"email": "Nikola@Playform.Cloud",
-		"url": "HTTPS://NikolaHristov.Tech"
+		"url": "https://nikolahristov.tech"
 	},
 	"scripts": {
 		"prepublishOnly": "astro build",
