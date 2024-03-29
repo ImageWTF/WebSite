@@ -28,7 +28,11 @@
 		"@tailwindcss/forms": "0.5.7",
 		"@tailwindcss/typography": "0.5.12",
 		"astro": "4.5.12",
+<<<<<<< HEAD
 		"biome-astro": "0.0.10",
+=======
+		"astro-biome": "0.0.10",
+>>>>>>> 887afc4c808234edb671a17f66459fd04d68fda9
 		"astro-capo": "0.0.1",
 		"compress-astro": "0.0.1",
 		"critters-astro": "2.1.6",
