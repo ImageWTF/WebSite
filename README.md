@@ -1,3 +1,3 @@
-# 🗺️ [Website] —
+# 🗺️ [WebSite] —
 
-[Website]: https://image.wtf
+[WebSite]: https://image.wtf
