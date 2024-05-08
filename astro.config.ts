@@ -5,6 +5,7 @@ export default (await import("astro/config")).defineConfig({
 	site: "https://image.wtf",
 	compressHTML: true,
 	integrations: [
+		// @ts-ignore
 		import.meta.env.MODE === "production"
 			? (await import("astrojs-service-worker")).default()
 			: null,
