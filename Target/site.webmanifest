@@ -1,0 +1,10 @@
+{
+	"background_color": "#fafafa",
+	"categories": [],
+	"display": "minimal-ui",
+	"name": "Image.wtf",
+	"orientation": "landscape",
+	"short_name": "imagewtf",
+	"start_url": "/",
+	"theme_color": "#fafafa"
+}
