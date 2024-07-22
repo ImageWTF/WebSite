@@ -2,18 +2,7 @@
 	"name": "@website/image_wtf",
 	"version": "0.0.1",
 	"private": true,
-<<<<<<< HEAD
 	"homepage": "HTTPS://GitHub.Com/ImageWTF/Website#readme",
-=======
-	"description": "📄 Starter —",
-	"keywords": [
-		"astro",
-		"starter",
-		"skeleton",
-		"playform"
-	],
-	"homepage": "HTTPS://GitHub.Com/PlayForm/Starter#readme",
->>>>>>> Fork/Current
 	"bugs": {
 		"url": "HTTPS://GitHub.Com/ImageWTF/Website/issues"
 	},
