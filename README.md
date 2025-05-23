@@ -1,3 +1,3 @@
 # [WebSite 🗾]
 
-[WebSite 🗾]: HTTPS://image.wtf
+[WebSite 🗾]: https://image.wtf

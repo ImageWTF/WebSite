@@ -6,7 +6,7 @@ export default defineConfig({
 	srcDir: "./Source",
 	publicDir: "./Public",
 	outDir: "./Target",
-	site: "HTTPS://Image.WTF",
+	site: "https://Image.WTF",
 	compressHTML: true,
 	prefetch: {
 		defaultStrategy: "hover",
